@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @LuxiferMrningstar
+- 👀 I’m interested in Python, Nextcord
+- 🌱 I’m currently learning nothing
